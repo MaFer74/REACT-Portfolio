@@ -23,6 +23,8 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
 * Technologies that must be used:
   * [ ] React
   * [ ] Navigation with `React Router`, dynamic rendering, or another third part router
+
+
 * Your portfolio **must contain** the following information:
   * [ ] Your name
   * [ ] Links to your:
@@ -32,6 +34,8 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
     * [ ] Phone Number - (optional)
     * [ ] PDF version of your resume
       * Your resume **must** contain up-to-date projects and professional experience
+
+      
     * [ ] A list of projects (Challenges or Projects). For each project, make sure you have the following:
       * [ ] Project title
       * [ ] Link to the deployed version
@@ -58,6 +62,8 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
 * [ ] Project Gallery:
   * [ ] Must render dynamically 6 instances of the Project component
     * [ ] Be sure to store your project data in a JSON file and import it into your project
+
+
 * [ ] Project:
   * [ ] Must be a reusable component that ingests JSON data as a props and renders a single instance for each project.
   * [ ] Must utilize router props to properly render the right project based on user selection
@@ -66,9 +72,11 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
     * [ ] Link to the deployed version
     * [ ] Link to the GitHub repository
     * [ ] GIF or screenshot of the deployed application
+
 * [ ] Contact:
   * [ ] Must have contact information
   * [ ] Have a contact form for handling events
+
 * [ ] Home:
   * This should be a welcome landing page that contains:
     * [ ] Your Name
