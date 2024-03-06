@@ -6,8 +6,8 @@ import Footer from "./components/footer"
 import Home from "./pages/home"
 import Contact from "./pages/contact"
 import ProjectGallery from "./pages/projectGallery"
-import ListGroup from 'react-bootstrap/ListGroup';
 import { Link } from 'react-router-dom';
+import React from 'react';
 
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
         {/* Define a default route that will render the Home component */}
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<Contact/>} />
-        <Route path="/projectgallery" element={<ProjectGallery />} />
+        <Route path="/projectGallery" element={<ProjectGallery />} />
         {/* Define a route that will have descendant routes */}
       </Routes>
       <Footer/>
