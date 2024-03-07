@@ -16,6 +16,7 @@ function App() {
     <Router>
       <Header/>
       {/* Wrap Route elements in a Routes component */}
+      <main className='container'>
       <Routes>
         {/* Define routes using the Route component to render different page components at different paths */}
         {/* Define a default route that will render the Home component */}
@@ -24,6 +25,7 @@ function App() {
         <Route path="/projectGallery" element={<ProjectGallery />} />
         {/* Define a route that will have descendant routes */}
       </Routes>
+      </main>
       <Footer/>
     </Router>
   )
