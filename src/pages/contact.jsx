@@ -9,6 +9,11 @@ function Contact() {
 
 
       <div>
+
+
+
+
+        {/* CONTACT ICONS */}
         <a
           href="https://www.linkedin.com/in/maria-fernanda-lujan-39a4bb85/"
           target="_blank"
