@@ -1,52 +1,59 @@
 
-[{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+[
+    {"title": "Bootstrap Portfolio",
+"image": "https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true",
 "description":"",
-"id": "1",
+"id": 1,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project1"
 },
 
 {"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+"image": "https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true",
 "description":"",
-"id": "1",
+"id": 2,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
-},
-
-
-{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
-"description":"",
-"id": "1",
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project2"
 },
 
 
 {"title": "Bootstrap Portfolio",
 "image": "/Screenshot 2024-03-07 at 18.15.49.png",
 "description":"",
-"id": "1",
+"id": 3,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project3"
+},
+
+
+{"title": "Bootstrap Portfolio",
+"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+"description":"",
+"id": 4,
+"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project4"
 },
 
 {"title": "Bootstrap Portfolio",
 "image": "/Screenshot 2024-03-07 at 18.15.49.png",
 "description":"",
-"id": "1",
+"id": 5,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project5"
 },
 
 {"title": "Bootstrap Portfolio",
 "image": "/Screenshot 2024-03-07 at 18.15.49.png",
 "description":"",
-"id": "1",
+"id": 6,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio"
+"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"styling": "project6"
 }
 
 

@@ -1,0 +1,17 @@
+.icon{
+    height: 40px;
+}
+
+.cardSize{
+    height: 400px;
+}
+
+.project{
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.project1{
+background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true');
+}

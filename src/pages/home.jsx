@@ -1,6 +1,7 @@
 //components:
 
 import mfImage from "../images/MF.jpeg"
+
 function Home(){
     return (
       <section className="my-5 mx-5">

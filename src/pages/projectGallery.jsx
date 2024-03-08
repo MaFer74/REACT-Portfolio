@@ -21,6 +21,7 @@ function ProjectGallery() {
             gitHub={project.gitHub}
             description={project.description}
             deployedUrl={project.deployedUrl}
+            styling={project.styling}
               />
 
           </div>
