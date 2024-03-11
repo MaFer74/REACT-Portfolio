@@ -2,6 +2,10 @@
     height: 40px;
 }
 
+.card-body{
+    background-color: lightsteelblue;
+}
+
 .cardSize{
     height: 400px;
 }
@@ -10,8 +14,14 @@
     background-size: cover;
     background-position: center;
     height: 400px;
+    
 }
 
 .project1{
-background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true');
+background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/Bootstrap-Portfolio.png?raw=true');
+}
+
+
+.project2{
+background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/Weather-Dashboard.png?raw=true');
 }

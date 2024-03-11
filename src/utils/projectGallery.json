@@ -1,7 +1,7 @@
 
 [
     {"title": "Bootstrap Portfolio",
-"image": "https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true",
+"image": "",
 "description":"",
 "id": 1,
 "gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
@@ -9,12 +9,12 @@
 "styling": "project1"
 },
 
-{"title": "Bootstrap Portfolio",
-"image": "https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/MF.jpeg?raw=true",
+{"title": "Weather Planner",
+"image": "",
 "description":"",
 "id": 2,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"gitHub": "https://github.com/MaFer74/weather-planner",
+"deployedUrl": "https://mafer74.github.io/weather-planner/",
 "styling": "project2"
 },
 
