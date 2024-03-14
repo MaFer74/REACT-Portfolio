@@ -19,41 +19,32 @@
 },
 
 
-{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+{"title": "Profile Generator App",
+"image": "",
 "description":"",
 "id": 3,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"gitHub": "https://github.com/MaFer74/profile-generator",
+"deployedUrl": "https://mafer74.github.io/profile-generator/",
 "styling": "project3"
 },
 
 
-{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+{"title": "Daily Planner",
+"image": "",
 "description":"",
 "id": 4,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"gitHub": "https://github.com/MaFer74/daily-planner",
+"deployedUrl": "https://mafer74.github.io/daily-planner/",
 "styling": "project4"
 },
 
-{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
+{"title": "Extras",
+"image": "",
 "description":"",
 "id": 5,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"gitHub": "",
+"deployedUrl": "",
 "styling": "project5"
-},
-
-{"title": "Bootstrap Portfolio",
-"image": "/Screenshot 2024-03-07 at 18.15.49.png",
-"description":"",
-"id": 6,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
-"styling": "project6"
 }
 
 
