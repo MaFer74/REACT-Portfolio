@@ -3,7 +3,9 @@
 ## Description 
 This project required to demonstrate how to use REACT, REACT Router and other technologies like jquery, bootstrap to set up a portfolio that displays the projects done in this bootcamp, and that can be display in different screens.
 
-![screenshot](src/images/Screenshot%202024-03-17%20at%2020.09.08.png)
+![screenshot](src/images/Screenshot%202024-03-17%20at%2020.09.08.png) Computer view
+![screenshot](src/images/Mobile%20view1.png) mobile view
+![screenshot](src/images/Mobile%20view2.png) mobile view
 
 ### Table of Contents 
 
