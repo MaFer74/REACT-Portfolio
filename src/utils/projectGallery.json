@@ -1,11 +1,11 @@
 
 [
-    {"title": "Bootstrap Portfolio",
+    {"title": "REACT Portfolio",
 "image": "",
 "description":"",
 "id": 1,
-"gitHub": "https://github.com/MaFer74/Bootstrap-Portfolio",
-"deployedUrl": "https://MaFer74.gitHub.io/Bootstrap-Portfolio",
+"gitHub": "hhttps://github.com/MaFer74/REACT-Portfolio",
+"deployedUrl": "",
 "styling": "project1"
 },
 
@@ -38,13 +38,22 @@
 "styling": "project4"
 },
 
-{"title": "Extras",
+{"title": "Console Finances",
 "image": "",
 "description":"",
 "id": 5,
-"gitHub": "",
-"deployedUrl": "",
+"gitHub": "https://github.com/MaFer74/Console-Finances",
+"deployedUrl": "https://mafer74.github.io/Console-Finances/",
 "styling": "project5"
+},
+
+{"title": "Read Me Generator",
+"image": "",
+"description":"",
+"id": 6,
+"gitHub": "https://github.com/MaFer74/ReadMe_generator",
+"deployedUrl": "https://mafer74.github.io/ReadMe_generator/",
+"styling": "project6"
 }
 
 

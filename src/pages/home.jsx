@@ -30,7 +30,7 @@ function Home(){
                 <br /> 
                 <br /> 
                 <br /> 
-              <a href="https://drive.google.com/file/d/1J6w3GMCL_toKHuWatmn3uKgbeXSRM6oN/view?usp=sharing" 
+              <a href="https://drive.google.com/file/d/1bYgAYQlYzgsday51N7wequ3PldWrwF-G/view?usp=sharing" 
               target="_blank"  className="btn btn-primary">Look at my CV</a>
             </div>
           </div>

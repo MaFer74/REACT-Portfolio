@@ -18,7 +18,7 @@
 }
 
 .project1{
-background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/images/Bootstrap-Portfolio.png?raw=true');
+background-image: url('');
 }
 
 
@@ -28,13 +28,17 @@ background-image: url('https://github.com/MaFer74/REACT-Portfolio/blob/main/src/
 
 
 .project3{
-    background-image: url('');
+    background-image: url('https://github.com/MaFer74/profile-generator/blob/main/starter/images/screenshot.png?raw=true');
     }
 
 .project4{
-    background-image: url('');
+    background-image: url('https://github.com/MaFer74/daily-planner/blob/main/assets/images/Screenshot.png?raw=true');
     }
 
 .project5{
-    background-image: url('');
+    background-image: url('https://github.com/MaFer74/Console-Finances/blob/main/screenshot.png?raw=true');
+    }
+
+.project6{
+    background-image: url('https://github.com/MaFer74/ReadMe_generator/blob/main/starter/Assets/screenshot.png?raw=true');
     }
